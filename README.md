@@ -19,9 +19,9 @@ Run `npm install`
 ***
 👤 Onyeagoziri Precious Akams
 
-GitHub: [@kamzzy] (https://github.com/kamzzy)
-Twitter:[@precious_akams] (https://twitter.com/precious_akams)
-LinkedIn:[Onyeagoziri Akams] (https://www.linkedin.com/in/onyeagoziri-akams/)
+GitHub: [@kamzzy](https://github.com/kamzzy)
+Twitter:[@precious_akams](https://twitter.com/precious_akams)
+LinkedIn:[Onyeagoziri Akams](https://www.linkedin.com/in/onyeagoziri-akams/)
 
 ### 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
